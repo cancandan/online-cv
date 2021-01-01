@@ -40,13 +40,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      More than 10 years of development experience.  
+      More than 10 years of development experience in java and python. Recently completed Computer Science Masters from Georgia Tech specializing on Machine Learning. GPA 4.0. Proficient in Artificial Intelligence, Computer Vision, Deep Learning, Bayesian Statistics, Time Series Analysis, Algorithms.  
 education:
     - degree: MSc in Computer Science
       university: Georgia Institute of Technology
       time: 2019 - 2021
       details: |
-        Specialized in Machine Learning. GPA 4.0
+        
         
     - degree: BSc in Mathematics
       university: Bogazici University
