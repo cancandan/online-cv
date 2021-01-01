@@ -35,15 +35,7 @@ sidebar:
       #- idiom: Spanish
       #  level: Professional
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+  
 
 career-profile:
     title: Career Profile
@@ -61,5 +53,3 @@ education:
       time: 1992 - 1997
       details: |
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
